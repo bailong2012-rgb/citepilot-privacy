@@ -1,9 +1,9 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 2,
-  "version": "2026-10-30.2",
-  "published_at": "2026-10-30T10:17:05.765966+00:00",
-  "snapshot": "snapshots/4b198dfe536553b616959d9830fbeea30a1b8963083d96580a6b680fa865033e.json",
-  "sha256": "4b198dfe536553b616959d9830fbeea30a1b8963083d96580a6b680fa865033e"
+  "revision": 3,
+  "version": "2026-11-02.3",
+  "published_at": "2026-11-02T02:56:44.664987+00:00",
+  "snapshot": "snapshots/2bf7d913e2643fb01c3daf490b0ac2e7df182c3bebbee36bb481813e39cc21ed.json",
+  "sha256": "2bf7d913e2643fb01c3daf490b0ac2e7df182c3bebbee36bb481813e39cc21ed"
 }
