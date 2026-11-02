@@ -1,9 +1,25 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 3,
-  "version": "2026-11-02.3",
-  "published_at": "2026-11-02T02:56:44.664987+00:00",
-  "snapshot": "snapshots/2bf7d913e2643fb01c3daf490b0ac2e7df182c3bebbee36bb481813e39cc21ed.json",
-  "sha256": "2bf7d913e2643fb01c3daf490b0ac2e7df182c3bebbee36bb481813e39cc21ed"
+  "revision": 4,
+  "version": "2026-11-02.4",
+  "published_at": "2026-11-02T05:37:56.879797+00:00",
+  "snapshot": "snapshots/d0a7a99ec1bd332f8ed1494d982dc1b420a31c2b1c0719f826afcdc59d9d5e89.json",
+  "sha256": "d0a7a99ec1bd332f8ed1494d982dc1b420a31c2b1c0719f826afcdc59d9d5e89",
+  "journals": [
+    {
+      "id": "bmemat",
+      "name": "BMEMat",
+      "code": "BMEMAT",
+      "snapshot": "snapshots/e620f02d5779b6a9322aaea8458f5f236deda30da0d483b4b9932d682c095171.json",
+      "sha256": "e620f02d5779b6a9322aaea8458f5f236deda30da0d483b4b9932d682c095171"
+    },
+    {
+      "id": "organoid-research",
+      "name": "Organoid Research",
+      "code": "ORGANOID RESEARCH",
+      "snapshot": "snapshots/c3cfb38313e7d21e9e8a00c8f3da813a552c89f61c8d764c14e950c38d26d83d.json",
+      "sha256": "c3cfb38313e7d21e9e8a00c8f3da813a552c89f61c8d764c14e950c38d26d83d"
+    }
+  ]
 }

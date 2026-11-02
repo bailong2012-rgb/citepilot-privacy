@@ -1,0 +1,2 @@
+# Content-addressed snapshots must keep their exact bytes on all platforms.
+catalog/snapshots/*.json -text
