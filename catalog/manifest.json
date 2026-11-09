@@ -1,11 +1,11 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 5,
-  "version": "2026-11-09.5",
-  "published_at": "2026-11-09T08:36:58.476853+00:00",
-  "snapshot": "snapshots/2e0cba91a47eb6b7ea5ff961577daea344de38b22861a60448a5c005b342cfec.json",
-  "sha256": "2e0cba91a47eb6b7ea5ff961577daea344de38b22861a60448a5c005b342cfec",
+  "revision": 6,
+  "version": "2026-11-09.6",
+  "published_at": "2026-11-09T08:54:36.367053+00:00",
+  "snapshot": "snapshots/c38a2c359ad4d4f9da9e2064136a780c671c0ab63e34c976e4a1412aeb8ef9be.json",
+  "sha256": "c38a2c359ad4d4f9da9e2064136a780c671c0ab63e34c976e4a1412aeb8ef9be",
   "journals": [
     {
       "id": "bmemat",
@@ -23,10 +23,13 @@
     },
     {
       "id": "mmr",
-      "name": "MMR",
-      "code": "MMR",
-      "snapshot": "snapshots/16c6de8fb17fd7b56729f3658a7be33249d8740cf9e3b99b39b8819e89a8d33d.json",
-      "sha256": "16c6de8fb17fd7b56729f3658a7be33249d8740cf9e3b99b39b8819e89a8d33d"
+      "name": "Military Medical Research",
+      "code": "MILITARY MEDICAL RESEARCH",
+      "aliases": [
+        "MMR"
+      ],
+      "snapshot": "snapshots/0cdffc9d977f5c7117f8cf8b6a0db7ed7f9f9567506f1d82754f95b007ef44be.json",
+      "sha256": "0cdffc9d977f5c7117f8cf8b6a0db7ed7f9f9567506f1d82754f95b007ef44be"
     }
   ]
 }
