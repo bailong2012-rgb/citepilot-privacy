@@ -1,11 +1,11 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 4,
-  "version": "2026-11-02.4",
-  "published_at": "2026-11-02T05:37:56.879797+00:00",
-  "snapshot": "snapshots/d0a7a99ec1bd332f8ed1494d982dc1b420a31c2b1c0719f826afcdc59d9d5e89.json",
-  "sha256": "d0a7a99ec1bd332f8ed1494d982dc1b420a31c2b1c0719f826afcdc59d9d5e89",
+  "revision": 5,
+  "version": "2026-11-09.5",
+  "published_at": "2026-11-09T08:36:58.476853+00:00",
+  "snapshot": "snapshots/2e0cba91a47eb6b7ea5ff961577daea344de38b22861a60448a5c005b342cfec.json",
+  "sha256": "2e0cba91a47eb6b7ea5ff961577daea344de38b22861a60448a5c005b342cfec",
   "journals": [
     {
       "id": "bmemat",
@@ -20,6 +20,13 @@
       "code": "ORGANOID RESEARCH",
       "snapshot": "snapshots/c3cfb38313e7d21e9e8a00c8f3da813a552c89f61c8d764c14e950c38d26d83d.json",
       "sha256": "c3cfb38313e7d21e9e8a00c8f3da813a552c89f61c8d764c14e950c38d26d83d"
+    },
+    {
+      "id": "mmr",
+      "name": "MMR",
+      "code": "MMR",
+      "snapshot": "snapshots/16c6de8fb17fd7b56729f3658a7be33249d8740cf9e3b99b39b8819e89a8d33d.json",
+      "sha256": "16c6de8fb17fd7b56729f3658a7be33249d8740cf9e3b99b39b8819e89a8d33d"
     }
   ]
 }
