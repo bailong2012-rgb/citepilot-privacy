@@ -1,18 +1,18 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 7,
-  "version": "2026-11-13.7",
-  "published_at": "2026-11-13T01:24:11.778242+00:00",
-  "snapshot": "snapshots/7c9e6b431d3e9d93cddec3d01e958c6b234dadd7451dafa65ec5d31815a03bf9.json",
-  "sha256": "7c9e6b431d3e9d93cddec3d01e958c6b234dadd7451dafa65ec5d31815a03bf9",
+  "revision": 8,
+  "version": "2026-11-13.8",
+  "published_at": "2026-11-13T01:44:40.620861+00:00",
+  "snapshot": "snapshots/242e3c40063454ffca01a45ad5b699946b6a3be7634e14e743cb8f1a153845e0.json",
+  "sha256": "242e3c40063454ffca01a45ad5b699946b6a3be7634e14e743cb8f1a153845e0",
   "journals": [
     {
       "id": "bmemat",
       "name": "BMEMat",
       "code": "BMEMAT",
-      "snapshot": "snapshots/9d37b32885c753c2c1c0c544f82d9321a7d236995b4e19e9a68b8ee52147f75c.json",
-      "sha256": "9d37b32885c753c2c1c0c544f82d9321a7d236995b4e19e9a68b8ee52147f75c"
+      "snapshot": "snapshots/f10b97ac0e5564fbaf9abe93ed6cd7dce94251b0e67c97f2a6efd6fc8fb0436b.json",
+      "sha256": "f10b97ac0e5564fbaf9abe93ed6cd7dce94251b0e67c97f2a6efd6fc8fb0436b"
     },
     {
       "id": "organoid-research",
