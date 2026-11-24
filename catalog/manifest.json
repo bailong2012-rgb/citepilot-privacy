@@ -1,11 +1,11 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 9,
-  "version": "2026-11-19.9",
-  "published_at": "2026-11-19T08:12:05.465610+00:00",
-  "snapshot": "snapshots/e6b22fb23a7014c33d7ae4a1b6a039d85055820f4d7a018a6fd5b01f825d76db.json",
-  "sha256": "e6b22fb23a7014c33d7ae4a1b6a039d85055820f4d7a018a6fd5b01f825d76db",
+  "revision": 10,
+  "version": "2026-11-24.10",
+  "published_at": "2026-11-24T13:35:39.097747+00:00",
+  "snapshot": "snapshots/80dec76d0571ad1b8586413d72e847f6de749fc92ad5a63efd5a70b5998cb76c.json",
+  "sha256": "80dec76d0571ad1b8586413d72e847f6de749fc92ad5a63efd5a70b5998cb76c",
   "journals": [
     {
       "id": "bmemat",
@@ -30,6 +30,13 @@
       ],
       "snapshot": "snapshots/0cdffc9d977f5c7117f8cf8b6a0db7ed7f9f9567506f1d82754f95b007ef44be.json",
       "sha256": "0cdffc9d977f5c7117f8cf8b6a0db7ed7f9f9567506f1d82754f95b007ef44be"
+    },
+    {
+      "id": "jiefangjun-yixue-zazhi",
+      "name": "解放军医学杂志",
+      "code": "解放军医学杂志",
+      "snapshot": "snapshots/b141be7f7d2cbc2eb2157e9fb902b90027b68566815499fea102067f64286f3a.json",
+      "sha256": "b141be7f7d2cbc2eb2157e9fb902b90027b68566815499fea102067f64286f3a"
     }
   ]
 }
