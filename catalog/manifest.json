@@ -1,11 +1,11 @@
 {
   "format": "CitePilotCatalog",
   "schema": 1,
-  "revision": 10,
-  "version": "2026-11-24.10",
-  "published_at": "2026-11-24T13:35:39.097747+00:00",
-  "snapshot": "snapshots/80dec76d0571ad1b8586413d72e847f6de749fc92ad5a63efd5a70b5998cb76c.json",
-  "sha256": "80dec76d0571ad1b8586413d72e847f6de749fc92ad5a63efd5a70b5998cb76c",
+  "revision": 11,
+  "version": "2026-11-25.11",
+  "published_at": "2026-11-25T04:20:15.495171+00:00",
+  "snapshot": "snapshots/27573dd51c3d631067111c313acab36337e6ced61ca307da285739f6c0156fb7.json",
+  "sha256": "27573dd51c3d631067111c313acab36337e6ced61ca307da285739f6c0156fb7",
   "journals": [
     {
       "id": "bmemat",
@@ -37,6 +37,13 @@
       "code": "解放军医学杂志",
       "snapshot": "snapshots/b141be7f7d2cbc2eb2157e9fb902b90027b68566815499fea102067f64286f3a.json",
       "sha256": "b141be7f7d2cbc2eb2157e9fb902b90027b68566815499fea102067f64286f3a"
+    },
+    {
+      "id": "bioactive-materials",
+      "name": "Bioactive Materials",
+      "code": "BIOACTIVE MATERIALS",
+      "snapshot": "snapshots/e07346219dbdf189bc7b305227554d88853a3d83dcf7f14118a2e74738a50475.json",
+      "sha256": "e07346219dbdf189bc7b305227554d88853a3d83dcf7f14118a2e74738a50475"
     }
   ]
 }
